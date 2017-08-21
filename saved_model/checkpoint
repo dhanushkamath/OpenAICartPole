@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/dhanush/Desktop/Internship Projects/openAI_RL_TF/saved_model/OpenAI-2.model"
+all_model_checkpoint_paths: "/home/dhanush/Desktop/Internship Projects/openAI_RL_TF/saved_model/OpenAI-2.model"
